@@ -1,0 +1,33 @@
+# Python
+  __pycache__/
+  *.py[cod]
+  *.pyo
+  *.pyd
+  *.so
+  *.egg
+  *.egg-info/
+  dist/
+  build/
+  .eggs/
+  .venv/
+  venv/
+  env/
+  .pythonlibs/
+
+  # Testing
+  .pytest_cache/
+  .coverage
+  htmlcov/
+
+  # Editors
+  .vscode/
+  .idea/
+  *.swp
+
+  # OS
+  .DS_Store
+  Thumbs.db
+
+  # Secrets
+  .env
+  
